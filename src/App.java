@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-import java.util.List;
+
 
 public class App {
     public static void main(String[] args) throws Exception {
@@ -29,10 +29,3 @@ public class App {
     }
 }
 
-class Fruit {
-    // Sample Fruit class
-}
-
-class Mango extends Fruit {
-    // Sample Mango class (Subtype of Fruit)
-}
